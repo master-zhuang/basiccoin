@@ -11,7 +11,6 @@ import networking
 import multiprocessing
 import random
 import time
-import copy
 
 
 def peers_check(peers, DB):
