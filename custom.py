@@ -12,6 +12,7 @@ version = "VERSION"
 block_reward = 10 ** 5
 premine = 5 * 10 ** 6
 fee = 10 ** 3
+num_cores = 2
 # Lower limits on what the "time" tag in a block can say.
 mmm = 100
 # Take the median of this many of the blocks.
